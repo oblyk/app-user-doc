@@ -74,7 +74,9 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   just-the-docs (= 0.4.0.rc3)
-  kramdown
+
+RUBY VERSION
+   ruby 2.6.5p114
 
 BUNDLED WITH
    2.4.1
