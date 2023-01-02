@@ -1,113 +1,76 @@
-# just-the-docs-template
+# Documentation d'Oblyk
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+Ce projet est dédié à la rédaction de la documentation de l'application d'Oblyk.
 
-- uses the [Just the Docs] theme;
-- can be built and published on [GitHub Pages];
-- can be built and previewed locally, and published on other platforms.
+_👉 Si vous cherchez la documentation de l'API, rendez-vous sur [la documentation de l'API]_ 
 
-More specifically, the created site:
+La documentation d'Oblyk utilise le générateur de site statique [Jekyll] avec le thème [Just the Docs].   
+Cet outil permet de rédiger facilement la documentation basée sur des fichiers markdowns et inclus une recherche full text "out of the box".
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem;
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages.
+Consulter la partie ["UI Components"] pour vous familiariser avec les syntaxes markdown pour créer des tableaux, titres, listes, etc. 
 
-To get started with creating a site, just click "[use this template]"!
+Oblyk étant un projet majoritairement développé et utilisé en France et que la documentation est destinée aux utilisateurs finaux : la documentation est rédigée en français.
 
-After completing the creation of your new site on GitHub, update it as needed:
+## Les images
 
-## Replace the content of the template pages
+Les captures d'écrans de l'interface d'Oblyk doivent être faite en thème clair.
 
-Update the following files to your own content:
+**Dimensions :**  
+- pour les capture d'écran d'interface desktop, limiter la largeur de l'image à 1920px
+- pour les captures sur mobile, limiter la hauteur à 1080px
 
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
+**Convention de nommage :**  
+Les images doivent être nommées comme suit : `[usage-explicite-de-l-image]_[type-d-interface].[format]`  
+exemple : formulaire-de-creation-de-compte_desktop.png
 
-## Changing the version of the theme and/or Jekyll
+**Emplacement sur le projet :**  
+Les images doivent se trouver à la racine du dossier /assets/images.  
+Pour favoriser la réutilisation des images, nous ne créons pas (par exemple) de sous-dossier par page de documentation.
 
-Simply edit the relevant line(s) in the `Gemfile`.
+**Pour annoter les images :**  
+Entourez ou encadrez les éléments en jaune avec la couleur suivante : <mark style="background-color: #fbd033; padding: 2px 5px; border-radius: 3px">#fbd033</mark>
 
-## Adding a plugin
+## Tips
 
-The Just the Docs theme automatically includes the [`jekyll-seo-tag`] plugin.
+### Les alerts
 
-To add an extra plugin, you need to add it in the `Gemfile` *and* in `_config.yml`. For example, to add [`jekyll-default-layout`]:
+Les alertes sont des paragraphes <p> mis en évidence par une couleur de fond. 
+Vous pouvez afficher 4 types d'alertes :
+<mark style="background-color: rgb(222, 237, 249); color: rgb(35, 151, 243); padding: 2px 5px; border-radius: 3px">.info</mark>
+<mark style="background-color: rgb(228, 240, 228); color: rgb(76, 175, 80); padding: 2px 5px; border-radius: 3px">.success</mark>
+<mark style="background-color: rgb(255, 251, 230); color: rgb(203, 154, 7); padding: 2px 5px; border-radius: 3px">.warning</mark>
+<mark style="background-color: rgb(250, 229, 229); color: rgb(254, 99, 99); padding: 2px 5px; border-radius: 3px">.danger</mark>
 
-- Add the following to your site's `Gemfile`:
+Pour afficher une alerte, faite précéder votre message de la syntaxe `{: .alert .type-d-alert }`
 
-  ```ruby
-  gem "jekyll-default-layout"
-  ```
+exemple :
 
-- And add the following to your site's `_config.yml`:
+```markdown
+{: .alert .danger}
+Je suis en message inquiétant
+```
 
-  ```yaml
-  plugins:
-    - jekyll-default-layout
-  ```
+## Installer et rédiger la documentation localement
 
-Note: If you are using a Jekyll version less than 3.5.0, use the `gems` key instead of `plugins`.
+Vous devez avoir installé [Jekyll] et [Bundler] d'installé sur votre machine :
 
-## Publishing your site on GitHub Pages
+1.  Clonez le projet git `git clone git@github.com:oblyk/app-user-doc.git`.
 
-1.  If your created site is `YOUR-USERNAME/YOUR-SITE-NAME`, update `_config.yml` to:
+2.  Aller dans le dossier app-user-doc `cd app-user-doc`
 
-    ```yaml
-    title: YOUR TITLE
-    description: YOUR DESCRIPTION
-    theme: just-the-docs
+3.  Lancer `bundle install` pour installer les gem nécessaire à la génération de la doc.
 
-    url: https://YOUR-USERNAME.github.io/YOUR-SITE-NAME
+4.  Lancer `bundle exec jekyll serve` pour générer les fichiers statique to build your site and preview it at `localhost:4000`.
 
-    aux_links: # remove if you don't want this link to appear on your pages
-      Template Repository: https://github.com/YOUR-USERNAME/YOUR-SITE-NAME
-    ```
+5.  Aller sur `localhost:4000` pour voir le résultat
 
-2.  Push your updated `_config.yml` to your site on GitHub.
-
-3.  In your newly created repo on GitHub:
-    - go to the `Settings` tab -> `Pages` -> `Build and deployment`, then select `Source`: `GitHub Actions`.
-    - if there were any failed Actions, go to the `Actions` tab and click on `Re-run jobs`.
-
-## Building and previewing your site locally
-
-Assuming [Jekyll] and [Bundler] are installed on your computer:
-
-1.  Change your working directory to the root directory of your site.
-
-2.  Run `bundle install`.
-
-3.  Run `bundle exec jekyll serve` to build your site and preview it at `localhost:4000`.
-
-    The built site is stored in the directory `_site`.
-
-## Publishing your built site on a different platform
-
-Just upload all the files in the directory `_site`.
-
-## Customization
-
-You're free to customize sites that you create with this template, however you like!
-
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
-
-## Licensing and Attribution
-
-This repository is licensed under the [MIT License]. You are generally free to reuse or extend upon this code as you see fit; just include the original copy of the license (which is preserved when you "make a template"). While it's not necessary, we'd love to hear from you if you do use this template, and how we can improve it for future use!
-
-The deployment GitHub Actions workflow is heavily based on GitHub's mixed-party [starter workflows]. A copy of their MIT License is available in [actions/starter-workflows].
+Quand vous éditez un fichier du projet, jekyll re-génère le site (dans le dossier `_site`), 
+vous avez plus qu'à rafraichir votre page pour constater vos changements.
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
+[la documentation de l'API]: https://api.oblyk.org/documentation
+[Jekyll]: https://jekyllrb.com/
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
 [Bundler]: https://bundler.io
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
-[`jekyll-default-layout`]: https://github.com/benbalter/jekyll-default-layout
-[`jekyll-seo-tag`]: https://jekyll.github.io/jekyll-seo-tag
-[MIT License]: https://en.wikipedia.org/wiki/MIT_License
-[starter workflows]: https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml
-[actions/starter-workflows]: https://github.com/actions/starter-workflows/blob/main/LICENSE
+["UI Components"]: https://just-the-docs.github.io/just-the-docs/docs/ui-components
