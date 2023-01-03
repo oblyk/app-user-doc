@@ -19,4 +19,4 @@ Oblyk récupère automatiquement la courbe altimétrique de la marche et calcul 
 - Cliquez sur la carte pour ajouter les points tout du long de la marche d'approche (en partant du parking vers le site).
 - Cliquez sur "Ajouter"
 
-[trouver un site naturel]: /docs/sites-naturels/trouver-un-site.md
+[trouver un site naturel]: ../../docs/sites-naturels/trouver-un-site

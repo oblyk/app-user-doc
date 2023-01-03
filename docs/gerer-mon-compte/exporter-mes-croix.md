@@ -13,4 +13,4 @@ Pour exporter vos croix et vos projets, suivez les étapes suivantes :
 - Dans l'onglet "Autres" ;
 - Cliquez sur "Actions sur mon compte" puis "Export mes croix" ou "Exporter mes projets".
 
-[vos paramètres]: /docs/gerer-mon-compte/mes-parametres.md
+[vos paramètres]: ../../docs/gerer-mon-compte/mes-parametres.md

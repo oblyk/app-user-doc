@@ -15,6 +15,8 @@ Oblyk étant un projet majoritairement développé et utilisé en France et que 
 
 Les captures d'écrans de l'interface d'Oblyk doivent être faite en thème clair.
 
+Les liens vers les images dans les pages de la documentation doivent être en chemin relatif, exemple `![une image](../../assets/images/logo.svg)`
+
 **Dimensions :**  
 - pour les capture d'écran d'interface desktop, limiter la largeur de l'image à 1920px
 - pour les captures sur mobile, limiter la hauteur à 1080px
@@ -28,18 +30,18 @@ Les images doivent se trouver à la racine du dossier /assets/images.
 Pour favoriser la réutilisation des images, nous ne créons pas (par exemple) de sous-dossier par page de documentation.
 
 **Pour annoter les images :**  
-Entourez ou encadrez les éléments en jaune avec la couleur suivante : <mark style="background-color: #fbd033; padding: 2px 5px; border-radius: 3px">#fbd033</mark>
+Entourez ou encadrez les éléments en jaune avec la couleur suivante : `#fbd033`
+
+## Les liens
+
+Les liens internes doivent être en chemin relatif, exemple: `[un lien](../../sites-naturels/trouver-un-siste-naturel)`
 
 ## Tips
 
 ### Les alerts
 
 Les alertes sont des paragraphes <p> mis en évidence par une couleur de fond. 
-Vous pouvez afficher 4 types d'alertes :
-<mark style="background-color: rgb(222, 237, 249); color: rgb(35, 151, 243); padding: 2px 5px; border-radius: 3px">.info</mark>
-<mark style="background-color: rgb(228, 240, 228); color: rgb(76, 175, 80); padding: 2px 5px; border-radius: 3px">.success</mark>
-<mark style="background-color: rgb(255, 251, 230); color: rgb(203, 154, 7); padding: 2px 5px; border-radius: 3px">.warning</mark>
-<mark style="background-color: rgb(250, 229, 229); color: rgb(254, 99, 99); padding: 2px 5px; border-radius: 3px">.danger</mark>
+Vous pouvez afficher 4 types d'alertes : `.info`, `.success`, `.warning` et `.danger`
 
 Pour afficher une alerte, faite précéder votre message de la syntaxe `{: .alert .type-d-alert }`
 

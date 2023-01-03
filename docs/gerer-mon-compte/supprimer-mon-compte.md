@@ -18,4 +18,4 @@ Pour supprimer votre compte Oblyk, suivez les étapes suivantes :
 **Attention !**  
 Il n'y a aucun retour possible, toutes vos données seront supprimées sans possibilité de les restaurer.
 
-[vos paramètres]: /docs/gerer-mon-compte/mes-parametres.md
+[vos paramètres]: ../../docs/gerer-mon-compte/mes-parametres.md
