@@ -11,7 +11,7 @@ nav_order: 1
 
 Cliquez sur l'icône de profil en bas à droit de l'écran puis cliquez sur "Paramètres"
 
-{: .images .two}
+{: .images .side-by-side}
 [![icône de profil](../../assets/images/icone-profil_mobile.png)](../../assets/images/icone-profil_mobile.png)
 [![menu mes paramètres](../../assets/images/menu-mes-parametres_mobile.png)](../../assets/images/menu-mes-parametres_mobile.png)
 

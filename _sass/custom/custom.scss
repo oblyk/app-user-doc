@@ -34,6 +34,14 @@ a {
   color: $primary-color;
 }
 
+.btn {
+  color: $primary-color;
+  &:hover {
+    color: $primary-color;
+    background-color: rgb(235, 235, 235);
+  }
+}
+
 .main-content-wrap {
   h1 {
     font-size: 28px !important;
@@ -69,25 +77,37 @@ a {
   }
 }
 
+.text-right {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
 .images {
   text-align: center;
   img {
-    box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
     border-radius: 5px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     max-height: calc(100vh - 100px);
     object-fit: contain;
     transition: box-shadow 0.3s;
-    &:hover {
-      box-shadow: 0 3px 5px -1px rgba(0,0,0,.2),0 5px 8px 0 rgba(0,0,0,.14),0 1px 14px 0 rgba(0,0,0,.12);
+  }
+  &:not(.no-shadow) {
+    img {
+      box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
+      &:hover {
+        box-shadow: 0 3px 5px -1px rgba(0,0,0,.2),0 5px 8px 0 rgba(0,0,0,.14),0 1px 14px 0 rgba(0,0,0,.12);
+      }
     }
   }
-  &.two {
+  &.side-by-side {
     display: flex;
     flex-direction: row;
   }
-  &.two a {
+  &.side-by-side a {
     display: block;
     width: 50%;
     padding-left: 10px;
