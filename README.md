@@ -18,7 +18,7 @@ Les captures d'écrans de l'interface d'Oblyk doivent être faite en thème clai
 Les liens vers les images dans les pages de la documentation doivent être en chemin relatif, exemple `![une image](../../assets/images/logo.svg)`
 
 **Dimensions :**  
-- pour les capture d'écran d'interface desktop, limiter la largeur de l'image à 1920px
+- pour les captures d'écran d'interface desktop, limiter la largeur de l'image à 1920px
 - pour les captures sur mobile, limiter la hauteur à 1080px
 
 **Convention de nommage :**  
@@ -45,7 +45,7 @@ Vous pouvez afficher 4 types d'alertes : `.info`, `.success`, `.warning` et `.da
 
 Pour afficher une alerte, faite précéder votre message de la syntaxe `{: .alert .type-d-alert }`
 
-exemple :
+Exemple :
 
 ```markdown
 {: .alert .danger}
@@ -54,7 +54,7 @@ Je suis en message inquiétant
 
 ## Installer et rédiger la documentation localement
 
-Vous devez avoir installé [Jekyll] et [Bundler] d'installé sur votre machine :
+Vous devez avoir installé [Jekyll] et [Bundler] d'installé sur votre machine, ansi que [rbenv] (ou ruby 3.1.0) :
 
 1.  Clonez le projet git `git clone git@github.com:oblyk/app-user-doc.git`.
 
@@ -62,7 +62,7 @@ Vous devez avoir installé [Jekyll] et [Bundler] d'installé sur votre machine :
 
 3.  Lancer `bundle install` pour installer les gem nécessaire à la génération de la doc.
 
-4.  Lancer `bundle exec jekyll serve` pour générer les fichiers statique to build your site and preview it at `localhost:4000`.
+4.  Lancer `bundle exec jekyll serve` pour générer les fichiers statiques.
 
 5.  Aller sur `localhost:4000` pour voir le résultat
 
@@ -76,3 +76,4 @@ vous avez plus qu'à rafraichir votre page pour constater vos changements.
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [Bundler]: https://bundler.io
 ["UI Components"]: https://just-the-docs.github.io/just-the-docs/docs/ui-components
+[Rbenv]: https://github.com/rbenv/rbenv
