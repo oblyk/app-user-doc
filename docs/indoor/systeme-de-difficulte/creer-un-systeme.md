@@ -41,19 +41,5 @@ En tant que grimpeur / grimpeuse, quand j'arrive dans votre salle, comment je re
 Vous pouvez très bien avoir les deux systèmes, avoir une couleur de prise qui donne un niveau général, et une cotation pour le niveau réel.  
 Dans ce cas, cochez les deux cases.
 
-## Est-ce que j'utilise un système de point
-
-En complément de la difficulté donnée par la couleur de prise, les étiquettes ou la cotation, vous pouvez définir un système de point.
-
-Nous prenons en charge 2 systèmes de points :
-
-- Les points fixes, quand vous fait un bloc ou une voie, on vous donne un nombre établi de points pour cette ligne  
-  👉 Si vous voulez utiliser ce système, cochez **"Un nombre de points fixe"**
-
-- Les points divisés par le nombre d'ascensions. Chaque ligne vaut 1000 points, plus la ligne est grimpée, moins elle vaut de point  
-  👉 Si vous voulez utiliser ce système, cochez **"1000pt / divisé par le nombre d'ascensions"**
-
-Vous pouvez ne pas utiliser de système de point.
-
 {: .text-right }
 [Créer un niveau au sein de mon système](creer-un-niveau){: .btn }

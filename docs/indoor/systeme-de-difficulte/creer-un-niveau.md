@@ -11,7 +11,7 @@ nav_order: 3
 Maintenant que vous avez établie le fonctionnement général de votre système de difficulté, vous allez pouvoir créer les niveaux que contient votre système.
 
 {: .alert .info }
-Si vous utilisez uniquement un système de cotation standard (6a, 7a, etc.) vous n'avez pas besoin de créer de niveau
+Si vos couleurs d'étiquettes ou de prises ne représentent pas la difficulté, vous n'avez pas besoin de créer un des niveaux de difficultés.
 
 Les niveaux vous permettent de définir dans quel ordre fonctionnent vos couleurs, mais aussi de donner une cotation pour chaque couleur (et ainsi gagner du temps lors du renseignement de vos voies)
 
@@ -40,5 +40,9 @@ L'ordre au sien de votre système. Le plus facile sera 1, puis 2, et ainsi de su
 **Couleur des prises / étiquette :**  
 Donnez la couleur de prise, ou d'étiquette que vous utilisez pour indiquer ce niveau.
 
+**Imposer un nombre de points :**  
+Oblyk peut classer vos grimpeurs suivant plusieurs types de classement, comme : chaque bloc vaut 1000pt divisé par le nombre d'ascensions, un nombre de points par rapport à la cotation, etc.  
+Mais vous pouvez décider de créer vous-même un système en donnant arbitrairement un nombre de points lié au niveau que vous êtes en train de créer.
+
 {: .text-right }
-[Les espaces](../espace){: .btn }
+[Les systèmes de classement](../systeme-de-classement){: .btn }

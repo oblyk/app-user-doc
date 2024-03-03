@@ -2,7 +2,7 @@
 title: Les voies et blocs
 layout: default
 parent: Oblyk pour les salles
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 
