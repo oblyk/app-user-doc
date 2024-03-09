@@ -8,11 +8,9 @@ parent: Gérer mon compte
 
 Oblyk ne vous intéresse plus ? Vous pouvez supprimer votre compte. C'est votre droit et on ne vous retiendra pas.
 
-Pour supprimer votre compte Oblyk, suivez les étapes suivantes :
-- Connectez-vous à votre compte ;
-- Allez dans [vos paramètres] ;
-- Dans l'onglet "Autres" ;
-- Cliquez sur "Actions sur mon compte" puis "Supprimer mon compte".
+Pour supprimer votre compte Oblyk, rendez-vous sur la page de suppression de votre compte : [Supprimer mon compte](https://oblyk.org/delete-account)
+
+Écrivez "supprimer" dans le champ de text pour débloquer le bouton de suppression et cliquez sur "Supprimer mon compte".
 
 {: .alert .danger}
 **Attention !**  
