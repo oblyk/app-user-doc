@@ -3,7 +3,7 @@ title: Supprimer un secteur
 layout: default
 parent: Les secteurs
 grand_parent: Oblyk pour les salles
-nav_order: 3
+nav_order: 5
 ---
 
 # Supprimer un secteur

@@ -1,5 +1,21 @@
 $primary-color: rgb(49, 153, 78);
 
+h2 {
+  margin-bottom: 1rem !important;
+  border-bottom: rgb(230, 230, 230);
+  padding-bottom: 0.2em;
+  border-bottom-style: solid;
+  border-bottom-width: 3px;
+}
+
+h3 {
+  margin-bottom: 0.5rem !important;
+  border-bottom: rgb(230, 230, 230);
+  padding-bottom: 0.2em;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+}
+
 a {
   color: $primary-color;
   &.site-button {
@@ -35,10 +51,12 @@ a {
 }
 
 .btn {
-  color: $primary-color;
+  background-color: $primary-color;
+  color: white;
+  border-radius: 18px;
   &:hover {
-    color: $primary-color;
-    background-color: rgb(235, 235, 235);
+    color: white;
+    background-color: rgba(76, 175, 80, 0.9);
   }
 }
 
@@ -113,6 +131,12 @@ a {
     padding-left: 10px;
     padding-right: 10px;
   }
+}
+
+.videos {
+  width: 100%;
+  border-radius: 5px;
+  box-shadow: 0 3px 1px -2px rgba(0,0,0,.2),0 2px 2px 0 rgba(0,0,0,.14),0 1px 5px 0 rgba(0,0,0,.12);
 }
 
 .edit-this-page {

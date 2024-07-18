@@ -15,7 +15,7 @@ Cliquez sur **"+ Nouvel espace"**
 Vous arriverez sur un formulaire telle que celui-ci :
 
 {: .images }
-[![formulaire de création d'un espace](../../../assets/images/creer-un-espace_desktop.jpg)](../../../assets/images/creer-un-espace_desktop.jpg)
+[![formulaire de création d'un espace](../../../assets/images/creer-un-espace_desktop.png)](../../../assets/images/creer-un-espace_desktop.png)
 
 Ce formulaire contient les champs suivants :
 
@@ -34,7 +34,16 @@ Par défaut les secteurs au sien de votre espace seront du style que vous choisi
 **Système de difficulté**  
 Choisissez le système de difficulté qui correspond le mieux aux voies et blocs que vous allez créer dans cet espace.
 
+**Type de représentation de l'espace**  
+Choisissez si vous voulez importer une image pour représenter votre espace ou un fichier 3D.
+
+**Afficher les numéros de relais des voies**  
+Dans le cas d'un espace de voie, vous pouvez choisir ici si vous voulez renseigner par voie son numéro de relais. (recommandé)
+
 Consulté la section ["Système de difficulté"](../systeme-de-difficulte) pour plus d'information sur les systèmes de difficulté.
 
+
+Une fois votre secteur créé, vous avez deux solutions pour le représenter. 
+
 {: .text-right }
-[Ajouter un plan à votre espace](le-plan-d-un-espace){: .btn }
+[Deux solution pour représenter mon espace](representation-d-un-espace){: .btn }

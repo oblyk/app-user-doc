@@ -1,12 +1,12 @@
 ---
-title: Le plan d'un espace
+title: Espace en 2D
 layout: default
 parent: Les espaces
 grand_parent: Oblyk pour les salles
-nav_order: 3
+nav_order: 4
 ---
 
-# Le plan d'un espace
+# Le plan 2D d'un espace
 
 Le plan d'un espace est une image qui représente votre espace, ça sera le support pour tracer les différents secteurs de votre espace.
 
@@ -14,7 +14,7 @@ Le fait que vous puissiez télécharger une image pour représenter votre espace
 Le problème est qu'il vous incombe de créer cette image.
 
 Pour inspiration, voici quelques exemples d'espace créé par d'autre salle :  
--(cliquez pour agrandir les images)_
+_(cliquez pour agrandir les images)_
 
 {: .images .side-by-side .no-shadow }
 [![Exemple espace de voie](../../../assets/images/plan-salle-voie.jpg)](../../../assets/images/plan-salle-voie.jpg)
