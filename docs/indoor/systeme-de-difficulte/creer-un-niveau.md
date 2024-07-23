@@ -8,7 +8,7 @@ nav_order: 3
 
 # Les niveaux au sien de mon système de difficulté
 
-Maintenant que vous avez établie le fonctionnement général de votre système de difficulté, vous allez pouvoir créer les niveaux que contient votre système.
+Maintenant que vous avez établi le fonctionnement général de votre système de difficulté, vous allez pouvoir créer les niveaux que contient votre système.
 
 {: .alert .info }
 Si vos couleurs d'étiquettes ou de prises ne représentent pas la difficulté, vous n'avez pas besoin de créer un des niveaux de difficultés.
@@ -35,7 +35,7 @@ Vous pouvez donner une cotation par défaut à ce niveau, si par exemple vos voi
 Ainsi quand vous renseignerez une voie de niveau violet, la cotation sera près renseignée, vous aurez plus qu'à l'ajuster.
 
 **Ordre :**  
-L'ordre au sien de votre système. Le plus facile sera 1, puis 2, et ainsi de suite
+L'ordre au sein de votre système. Le plus facile sera 1, puis 2, et ainsi de suite
 
 **Couleur des prises / étiquette :**  
 Donnez la couleur de prise, ou d'étiquette que vous utilisez pour indiquer ce niveau.
