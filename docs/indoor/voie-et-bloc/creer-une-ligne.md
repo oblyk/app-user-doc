@@ -30,28 +30,16 @@ Suivant votre paramétrage de votre système de difficulté les champs peuvent �
 
 Sur ce formulaire vous trouverez les champs suivants :
 
-**Difficulté :**  
-Si vous avez prédéfini des niveaux dans votre système de difficulté, vos différents niveaux s'afficherons ici.  
+**Niveau :**  
+Si vous avez prédéfini des niveaux dans votre système de difficulté, vos différents niveaux s'afficheront ici.  
 En choisissant un niveau Oblyk préremplira pour vous les champs cotation et couleur d'étiquette et / ou de prise 
 
 **Nom :**  
 Vous pouvez donner optionnellement un nom ou une référence à votre ligne.  
-Vous pouvez cliquer sur le bouton à droite du champ pour qu'Oblyk récupère un nom aléatoire parmi les 90 000 lignes outdoor que nous avons en base de donnée.  
-
-**Ouvreurs, ouvreuses :**  
-Sélectionné un ou plusieurs ouvreurs ou ouvreuses qui ont monté la ligne. Vous pouvez ajouter vos ouvreurs·euses à la volée en cliquant sur le bouton à droite du champ.
-
-**Date d'ouverture :**  
-Par défaut à la date du jour
-
-**Tags :**  
-Vous pouvez donner des tags pour typer votre bloc, comme : dynamique, technique, etc.
-
-**Complément d'information :**  
-Vous pouvez ajouter une description à votre ligne
+Vous pouvez cliquer sur le bouton à droite du champ pour qu'Oblyk récupère un nom aléatoire parmi les 100 000 lignes outdoor que nous avons en base de donnée.  
 
 **Ligne de plusieurs longueurs :**  
-Cocher cette case si la voie fait plusieurs longueurs. Cette option est visible uniquement si vous avez défini que votre secteur peut avoir des voies de plusieurs longueurs.  
+Cocher cette case si la voie fait plusieurs longueurs. Cette option est visible uniquement si vous avez défini que votre secteur peut avoir des voies de plusieurs longueurs.
 
 **Cotation :**  
 La cotation genre 6a, 5c de votre ligne.
@@ -59,6 +47,16 @@ La cotation genre 6a, 5c de votre ligne.
 **Couleurs de prise / couleur d'étiquette :**  
 Sélectionnez la ou les couleurs des prises de la ligne.
 
-Au moment de valider l'ajout de votre ligne, vous aurez le choix entre juste **"Créer"** ou **"Créer + Photo"**
+**Ouvreurs, ouvreuses :**  
+Sélectionné un ou plusieurs ouvreurs ou ouvreuses qui ont monté la ligne. Vous pouvez ajouter vos ouvreurs·euses à la volée en cliquant sur le bouton à droite du champ.
 
-Si vous choisissez **"Créer + Photo"** vous pourrez prendre une photo de votre ligne directement après l'ajout
+**Styles :**  
+Vous pouvez donner des styles à votre ligne avec en favoris ce que vous avez paramétré dans vos styles.
+
+**Complément d'information :**  
+Vous pouvez ajouter une description à votre ligne
+
+**Date d'ouverture :**  
+Par défaut à la date du jour
+
+Quand vous aurez créé votre ligne une fenêtre vous demandera si vous voulez ajouter une photo à cette voie, si vous voulez continuer de créer ou aller à la voie que vous venez de créer.

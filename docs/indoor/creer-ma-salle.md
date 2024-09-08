@@ -28,5 +28,7 @@ Comme : une description de votre rôle dans la salle, votre présence sur l'orga
 
 Nous traitons les demandes manuellement. Notre délai de réponse dépendra de notre disponibilité. 
 
+Une fois que nous aurons accepté votre demande, vous pourrez passer au paramétrage de votre salle, et la première étape est : Les niveaux de difficulté et la cotation de votre salle.
+
 {: .text-right }
-[Les systèmes de difficulté](systeme-de-difficulte){: .btn }
+[Les niveaux et les cotations](niveaux-et-cotations){: .btn }
