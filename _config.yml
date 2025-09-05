@@ -2,7 +2,8 @@ title: Oblyk Documentation
 description:
   Trouvez toute la documentations nécessaires pour comprendre et utiliser Oblyk,
   la plateforme communautaire et open source dédiée à l'escalade outdoor et indoor.
-remote_theme: just-the-docs/just-the-docs
+#remote_theme: just-the-docs/just-the-docs
+theme: just-the-docs
 
 logo: "/assets/images/logo.svg"
 favicon_ico: "/assets/images/favicon.ico"
@@ -14,4 +15,7 @@ aux_links:
   Oblyk App: https://oblyk.org
 
 plugins:
-  - jekyll-remote-theme
+  - jekyll-default-layout
+
+#plugins:
+#  - jekyll-remote-theme
