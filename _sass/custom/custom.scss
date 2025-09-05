@@ -38,6 +38,12 @@ a {
   color: $primary-color;
 }
 
+.nav-list .nav-list-item .nav-list-link {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .site-header {
   .site-button {
     .icon {
@@ -57,6 +63,34 @@ a {
   &:hover {
     color: white;
     background-color: rgba(76, 175, 80, 0.9);
+  }
+}
+
+.black-btn {
+  background-color: black;
+  color: white;
+  font-weight: 500;
+  font-size: 0.7em;
+  padding: 4px 8px;
+  border-radius: 7px;
+  white-space: nowrap;
+  &:hover {
+    color: white;
+    background-color: black;
+  }
+}
+
+.light-btn {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: black;
+  font-weight: 500;
+  font-size: 0.7em;
+  padding: 4px 8px;
+  border-radius: 5px;
+  white-space: nowrap;
+  &:hover {
+    color: black;
+    background-color: rgba(0, 0, 0, 0.1);
   }
 }
 
@@ -106,7 +140,7 @@ a {
 .images {
   text-align: center;
   img {
-    border-radius: 5px;
+    border-radius: 15px;
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     max-height: calc(100vh - 100px);
