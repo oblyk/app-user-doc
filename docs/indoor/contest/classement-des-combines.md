@@ -8,42 +8,43 @@ nav_order: 15
 
 # Classement des combinés
 
-Lors qu'on fait un combiné d'épreuve, comme : Voie + Bloc + Vitesse, il faut classer les classements pour avoir un classement générale.
+Lorsqu'on fait un combiné d'épreuves, comme : Voie + Bloc + Vitesse, il faut classer les résultats pour obtenir un classement général.
 
-Suivant la typologie de votre contest et de vos épreuves vous préférez peut-être différent système.
+Suivant la typologie de votre contest et de vos épreuves, vous préférerez peut-être différents systèmes.
 
 ## Addition des classements
 
-Pour établie le classement général de votre combiné, nous faisons la somme des classements du participant. Par exemple un participant qui a fait :
-- 3ème au bloc
-- 5ème à la voie
-- 1er à la vitesse
+Pour établir le classement général de votre combiné, nous faisons la somme des classements du participant. Par exemple, un participant qui a fait :
+- 3ᵉ au bloc
+- 5ᵉ à la voie
+- 1ᵉʳ à la vitesse
 
 Il aura 3 + 5 + 1 = 9 points.  
-Le participant qui a le moins de point prend la tête.
+Le participant qui a le moins de points prend la tête.
 
 ## Multiplication des classements
 
-Idem que l'addition, mais en multipliant les classements, ainsi notre participant qui à fait 3ème, 5ème 1er, le calcule de ses points sera
-3 * 5 * 1 = 15 points.
+Identique à l'addition, mais en multipliant les classements. Ainsi, notre participant qui a fait 3ᵉ, 5ᵉ et 1ᵉʳ aura un calcul de points égal à  
+3 × 5 × 1 = 15 points.
 
-Le participant qui a le moins de point prend la tête.
+Le participant qui a le moins de points prend la tête.
 
 ## Somme des points
 
-Pour établir le classement général, on fait la somme des points acquit à la dernière étape de chaque épreuve.
+Pour établir le classement général, on fait la somme des points acquis à la dernière étape de chaque épreuve.
 
-Par exemple si vous aviez une épreuve de bloc avec 4 blocs de 25 points, et une épreuve de voie avec une voie de 100 points pour 60 prises au pro rata de la prise atteinte.
-Un participant qui fait 3 blocs et atteinte la 30ème prise aura : (3 * 25) + (100 / 60 * 30) = 105 points.
+Par exemple, si vous aviez une épreuve de bloc avec 4 blocs de 25 points et une épreuve de voie avec une voie de 100 points pour 60 prises, au prorata de la prise atteinte :  
+un participant qui fait 3 blocs et atteint la 30ᵉ prise aura : (3 × 25) + (100 / 60 × 30) = 105 points.
 
-Le participant qui a le plus de point prend la tête
+Le participant qui a le plus de points prend la tête.
 
-_Note :_ Sur ce type de classement il faut vous assurer que les participants puissent avoir un nombre équivalent de point dans chaque épreuve.
-Dans notre exemple, il y avait 100 points à obtenir en bloc, et 100 points en voie. Ou alors, avoir conscience qu'une épreuve vaut plus qu'une autre.
+_Note :_ sur ce type de classement, il faut vous assurer que les participants puissent obtenir un nombre équivalent de points dans chaque épreuve.  
+Dans notre exemple, il y avait 100 points à obtenir en bloc et 100 points en voie. Ou alors, il faut avoir conscience qu'une épreuve vaut plus qu'une autre.
 
-## Point par rang
+## Points par rang
 
-Le participant gagne un nombre de points fixe suivant son classement dans une épreuve, plus il est haut dans le classement, plus il gagne de point. Ça récompense les meilleurs performances sans leur donner un trop gros avantage.
+Le participant gagne un nombre de points fixe selon son classement dans une épreuve : plus il est haut dans le classement, plus il gagne de points.  
+Cela récompense les meilleures performances sans leur donner un trop grand avantage.
 
 [✨ Ce type de classement donne les meilleurs résultats dans la plupart des cas](){: .light-btn }
 
