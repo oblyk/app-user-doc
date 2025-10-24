@@ -19,7 +19,7 @@ Vous tomberez sur cette page, ou vous pouvez choisir pour chaque type d'escalade
 [![Les systèmes de classement](../../../assets/images/systeme-de-classement_desktop.png)](../../../assets/images/systeme-de-classement_desktop.png)
 
 **1000 points divisés par le nombre d'ascensions :**  
-Chaque voie, bloc ou pan vaut 1000 points, plus cette ligne est répétée, moins elle vaut de point, exemple :
+Chaque voie, bloc ou pan vaut 1000 points, plus cette ligne est répétée, moins elle vaut de points, exemple :
 - 0 ou une ascension : 1000 points
 - 2 ascensions : 500 points
 - 3 ascensions : 333 points
