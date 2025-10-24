@@ -24,7 +24,7 @@ _Exemple :_
 
 ## Solution 2 : Un fichier 3D
 
-Vous téléchargez un **fichier 3D** issue de Sketchup (par exemple) sur lequel vous pourrez tracer vos secteurs.
+Vous téléchargez un **fichier 3D** issu de Sketchup (par exemple) sur lequel vous pourrez tracer vos secteurs.
 
 _Exemple :_
 

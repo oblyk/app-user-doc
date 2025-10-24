@@ -15,7 +15,7 @@ Exemple : L'espace "bloc", l'espace "voie", l'espace "enfant", etc.
 Mais vous pouvez aussi diviser en ensemble plus petit si ça vous semble pertinent. Par exemple si votre salle n'a que du bloc, mais à deux étages, vous pouvez faire un espace "Rez de chaussée" et un Espace "1er étage".  
 Ou encore, divisez un espace de voie en grande typologie, par exemple : Les dévers, Les dalles _(même si ce n'est pas la division la plus conseillée, fair un espace "voie" divisé en secteur qui contiennent un ou plusieurs relais reste la meilleure division)_
 
-Un espace peut ensuite être sous divisé en secteur (un secteur sera un pan de mur ou un couloir de voie par exemple)
+Un espace peut ensuite être sous divisé en secteur (un secteur sera un pan de mur ou un couloir de voie par exemple).
 
 Et finalement, pour un secteur, vous pouvez indiquer quels relais s'y trouve.
 
