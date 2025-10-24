@@ -7,4 +7,4 @@ nav_order: 2
 
 # Les sites naturels sur Oblyk
 
-Oblyk est une grande base de données des sites et falaises du monde. Cette base de donnée est alimentée et corrigée par la communauté des grimpeurs.
+Oblyk est une grande base de données des sites et falaises du monde. Cette base de données est alimentée et corrigée par la communauté des grimpeurs.
