@@ -86,8 +86,8 @@ Renseignez :
 - **Nombre de blocs à faire** : exemple 20
 - **À qui sont destinés ces blocs** : hommes et femmes
 - **Ces blocs sont communs à quelles catégories** : Toutes catégories
-- **Diviser cette étape en vagues** : oui  
-  - choisissez les heures de passage pour chaque vague.
+- **Diviser cette étape en vagues** : oui
+- choisissez les heures de passage pour chaque vague.
 
 Votre page devrait ressembler à ceci :
 

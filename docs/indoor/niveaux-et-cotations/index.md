@@ -24,9 +24,9 @@ Pour chaque type d'escalade, vous pouvez choisir les éléments suivants :
 Quel genre de cotation utilisez-vous pour vos voies, blocs ou traversées ? Cotation française : 7a, 6b+, etc. Cotation anglaise : B1, B2, etc., ou pas de cotation ?
 
 **Quelle représentation correspond le mieux ?**  
-Comment un grimpeur ou une grimpeuse comprend comment faire votre voie :    
-- Il faut suivre la couleur des prises ?  
-- Il faut suivre les étiquettes ? _(comme un circuit dans un pan)_  
+Comment un grimpeur ou une grimpeuse comprend comment faire votre voie :
+- Il faut suivre la couleur des prises ?
+- Il faut suivre les étiquettes ? _(comme un circuit dans un pan)_
 - Il faut suivre les prises, mais c'est l'étiquette qui donne la difficulté de la voie
 
 **Ordre des couleurs :**  

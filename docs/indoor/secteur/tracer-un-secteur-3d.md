@@ -40,9 +40,9 @@ Vous pouvez ajuster sa hauteur en la changeant dans la boîte de gauche.
 
 **Déplacer, ajouter, supprimer des points de votre tracé :**
 
-Vous pouvez reprendre les points du tracé de votre secteur :  
-- en glissant les points rouges pour les déplacer  
-- en cliquant sur les points blancs pour ajouter un point  
+Vous pouvez reprendre les points du tracé de votre secteur :
+- en glissant les points rouges pour les déplacer
+- en cliquant sur les points blancs pour ajouter un point
 - en cliquant sur un point rouge pour le supprimer
 
 <video class="videos" controls loop autoplay>

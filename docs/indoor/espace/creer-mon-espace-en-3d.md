@@ -104,7 +104,7 @@ Voici à quoi pourrait ressembler votre salle avant et après l'avoir "purgée".
 
 ## Étape 3 : Un fichier par espace
 
-Maintenant que vous avez purgé votre salle des éléments en trop, supprimé les textures et fusionné les arêtes,  
+Maintenant que vous avez purgé votre salle des éléments en trop, supprimé les textures et fusionné les arêtes,
 vous devez créer un fichier 3D par espace que vous souhaitez importer sur Oblyk.
 
 Par exemple, pour une salle avec un espace de bloc et un espace de voie, copiez-collez votre bloc dans un autre fichier et enregistrez-le.  
@@ -120,11 +120,11 @@ Malheureusement, cette fonctionnalité est payante sur SketchUp. Vous pouvez pro
 
 Pour faire l'export, allez dans : _Menu / Exporter / OBJ_
 
-- [X] Cochez "Permuter les coordonnées YX (Z vertical)"  
-- Choisissez "m" dans "Unités"  
-- [X] Cochez "Trianguler toutes les faces"  
-- [X] Cochez "Exporter les faces recto verso"  
-- [ ] Décochez "Exporter les arêtes"  
+- [X] Cochez "Permuter les coordonnées YX (Z vertical)"
+- Choisissez "m" dans "Unités"
+- [X] Cochez "Trianguler toutes les faces"
+- [X] Cochez "Exporter les faces recto verso"
+- [ ] Décochez "Exporter les arêtes"
 - [ ] Décochez "Exporter les placages de texture"
 
 {: .images }

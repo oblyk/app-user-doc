@@ -12,7 +12,7 @@ La suppression d'un secteur est volontairement indisponible dans les options d'u
 telles que _'Démonter les lignes'_, _'Tracer le secteur sur le plan'_, etc.  
 Notamment pour éviter les mauvaises manipulations et parce que c'est une fonction dont vous avez besoin uniquement lors de la phase de création de votre topo.
 
-Pour supprimer un secteur, il faut vous rendre sur la page de gestion de vos espaces et secteurs, qui est accessible via  
+Pour supprimer un secteur, il faut vous rendre sur la page de gestion de vos espaces et secteurs, qui est accessible via 
 l'icône d'engrenage dans la boîte "Espace" de votre interface d'administration.
 
 {: .images }

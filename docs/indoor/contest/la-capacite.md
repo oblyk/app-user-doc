@@ -32,9 +32,9 @@ _Note :_ Vous pouvez laisser vide pour ne pas appliquer de limite.
 
 ## La hiérarchie
 
-Hiérarchiquement, Oblyk va procéder comme suit :  
-- le participant pourra commencer son inscription s'il reste de la place au global ;  
-- le participant pourra choisir une catégorie s'il reste de la place dans cette catégorie ;  
+Hiérarchiquement, Oblyk va procéder comme suit :
+- le participant pourra commencer son inscription s'il reste de la place au global ;
+- le participant pourra choisir une catégorie s'il reste de la place dans cette catégorie ;
 - le participant pourra choisir une vague (et terminer son inscription) s'il reste de la place dans la vague.
 
 ## La parité

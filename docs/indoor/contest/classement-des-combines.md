@@ -24,7 +24,7 @@ Le participant qui a le moins de points prend la tête.
 
 ## Multiplication des classements
 
-Identique à l'addition, mais en multipliant les classements. Ainsi, notre participant qui a fait 3ᵉ, 5ᵉ et 1ᵉʳ aura un calcul de points égal à  
+Identique à l'addition, mais en multipliant les classements. Ainsi, notre participant qui a fait 3ᵉ, 5ᵉ et 1ᵉʳ aura un calcul de points égal à 
 3 × 5 × 1 = 15 points.
 
 Le participant qui a le moins de points prend la tête.
