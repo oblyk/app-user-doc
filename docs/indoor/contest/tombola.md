@@ -10,18 +10,18 @@ nav_order: 13
 
 La tombola est un petit module qui vous permet de tirer au sort parmi vos participants.
 
-Pour ouvrir la tombola aller sur la page d'administration de votre contest et cliquer sur (TOMBOLA)
+Pour ouvrir la tombola, allez sur la page d'administration de votre contest et cliquez sur (TOMBOLA).
 
 Une fenêtre telle que celle-ci s'ouvrira :
 
 {: .images }
 [![La tombola](../../../assets/images/tombola.png)](../../../assets/images/tombola.png)
 
-Si vous avez plusieurs vagues et/ou catégorie, vous pourrez affiner votre tirage.
+Si vous avez plusieurs vagues et/ou catégories, vous pourrez affiner votre tirage.
 
-Les participants que vous tirez au sort sont sauvegardé pour ne pas être tiré deux fois.
+Les participants que vous tirez au sort sont sauvegardés pour ne pas être tirés deux fois.
 
-Si vous avez une page en directe d'affichée, vous pouvez affiche le tirage de la tombola en directe dessus aussi. 
+Si vous avez une page en direct affichée, vous pouvez afficher le tirage de la tombola en direct dessus aussi. 
 
 {: .text-right }
 [Les combinés](les-combines){: .btn }

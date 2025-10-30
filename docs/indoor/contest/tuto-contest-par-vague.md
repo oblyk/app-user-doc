@@ -8,130 +8,116 @@ nav_order: 5
 
 # Tuto - Contest par vague 
 
-Dans ce tutoriel, nous allons voir comment créer un contest où vos participants seront répartie par vague.
+Dans ce tutoriel, nous allons voir comment créer un contest où vos participants sont répartis par vague.
 
 ## 1. Créez votre contest
 
-Rendez-vous sur le dashboard de votre salle, cliquez sur [CONTEST](){: .black-btn } puis faite : [NOUVEAU CONTEST](){: .black-btn }  
+Rendez-vous sur le dashboard de votre salle, cliquez sur [CONTEST](){: .black-btn } puis faites [NOUVEAU CONTEST](){: .black-btn }  
 Vous arriverez sur ce formulaire :
 
 {: .images }
 [![Nouveau contest](../../../assets/images/nouveau-contest_desktop.png)](../../../assets/images/nouveau-contest_desktop.png)
 
-Renseigner à minima :
+Renseignez à minima :
 - **Un titre :** Exemple "Contest fin d'année".
-- **Date de début et fin du contest :** La date du jour de votre contest.
-- **Date de début et fin des inscriptions :** La période sur laquelle vous autorisez les inscriptions à votre contest.
-- **Type de catégorisation :** choisissez "Catégorisation personnalisée (loisir, expert, etc.)"
+- **Date de début et fin du contest** : la date du contest.
+- **Date de début et fin des inscriptions** : période autorisée pour les inscriptions.
+- **Type de catégorisation** : choisissez "Catégorisation personnalisée (loisir, expert, etc.)"
 
-Laissez le reste des informations par défaut.
+Laissez le reste par défaut.
 
 ## 2. Créez votre catégorie
 
 Le choix de diviser vos participants en vagues se fait au niveau de la catégorie.  
-Lors de la création de votre catégorie, choisissez **"[ ] Répartir cette catégorie en plusieurs vagues".**  
+Lors de la création de votre catégorie, cochez **"[ ] Répartir cette catégorie en plusieurs vagues".**  
 
-Par défaut vos participants pourront choisir dans quelles vagues ils veulent grimper. Mais vous pouvez cocher la case **"[ ] Auto répartir les participants dans les vagues".**  
-Si cette case est cochée, Oblyk les inscrira les compétiteurs dans la vague où il y a le moins de participants.
+Par défaut, vos participants pourront choisir dans quelles vagues ils veulent grimper.  
+Pour laisser Oblyk répartir automatiquement les participants dans les vagues, cochez **"[ ] Auto répartir les participants dans les vagues".**  
 
 {: .images }
 [![Ajouter une catégorie](../../../assets/images/contest-vague-categorie.png)](../../../assets/images/contest-vague-categorie.png)
 
 ## 3. Créez vos vagues
 
-Après avoir créé vos catégories, un nouveau bandeau fait son apparition **"Les vagues"**.
+Après avoir créé vos catégories, un nouveau bandeau **"Les vagues"** apparaît.
 
 {: .images }
 [![Bandeau vague](../../../assets/images/contest-vague-bandeau.png)](../../../assets/images/contest-vague-bandeau.png)
 
-Dans ce bandeau **"Les vagues"** faite [+ AJOUTER](){: .light-btn }
-
-Dans la fenêtre qui s'ouvre, renseignez :
+Cliquez sur [+ AJOUTER](){: .light-btn } et renseignez :
 - **Nom de la vague :** Exemple : Vague A
 
 {: .images }
-[![Bandeau vague](../../../assets/images/contest-vague-ajouter-une-vague.png)](../../../assets/images/contest-vague-ajouter-une-vague.png)
+[![Ajouter une vague](../../../assets/images/contest-vague-ajouter-une-vague.png)](../../../assets/images/contest-vague-ajouter-une-vague.png)
 
-Vous pouvez limiter le nombre(*) de participants dans la vague pour, par exemple, éviter qu'il n'y ait pas plus de la moitié de vos participants sur une vague.
-
-Créer ainsi autant de vagues que vous voulez.
+Vous pouvez limiter le nombre(*) de participants par vague pour éviter une surcharge.
 
 _* En savoir plus sur [La capacité](la-capacite)_
 
-## 3. Créez une épreuve
+## 4. Créez une épreuve
 
 Dans le bandeau **"Épreuve"**, cliquez sur [+ AJOUTER](){: .light-btn }.
-
-Dans la fenêtre qui s'ouvre :
 
 {: .images }
 [![Fenêtre nouvelle épreuve](../../../assets/images/contest-nouvelle-epreuve-popup.png)](../../../assets/images/contest-nouvelle-epreuve-popup.png)
 
-Choisissez **"Bloc"** dans **"Type d'escalade de l'épreuve"**, et fait [CRÉER](){: .black-btn }
+Choisissez **"Bloc"** comme type d'escalade, puis cliquez sur [CRÉER](){: .black-btn }
 
-## 4. Créez votre étape de qualification
+## 5. Créez votre étape de qualification
 
-Dans le bandeau **"Bloc : Les étapes"** faite [+ AJOUTER UNE ÉTAPE](){: .light-btn }.
-
-Cette fenêtre s'ouvre :
+Dans le bandeau **"Bloc : Les étapes"**, cliquez sur [+ AJOUTER UNE ÉTAPE](){: .light-btn }.
 
 {: .images }
 [![Fenêtre nouvelle étape](../../../assets/images/contest-nouvelle-etape-popup.png)](../../../assets/images/contest-nouvelle-etape-popup.png)
 
-Dans le nom de l'étape, nous allons renseigner **"Qualification"** et nous choisissons **"1000pt divisés par le nombre d'ascensions + zone"**(*).
+Nom de l'étape : **"Qualification"**  
+Système de points : **"1000pt divisés par le nombre d'ascensions + zone"**(*)
 
 _* En savoir plus sur : [Les systèmes de points](les-systemes-de-classements)_ 
 
-## 5. Ajouter les blocs de qualification
+## 6. Ajouter les blocs de qualification
 
-Pour ajouter vos blocs de qualifications, cliquer sur [+ AJOUTER DES BLOCS](){: .light-btn } dans le bandeau **"Les blocs de qualifications par catégories"**.
-
-Cette fenêtre s'ouvre :
+Cliquez sur [+ AJOUTER DES BLOCS](){: .light-btn } dans le bandeau **"Les blocs de qualifications par catégories"**.
 
 {: .images }
 [![Ajouter des blocs](../../../assets/images/contest-vague-ajouter-des-blocs.png)](../../../assets/images/contest-vague-ajouter-des-blocs.png)
 
 Renseignez :
-- **Nombre de blocs à faire :** Exemple : 20
-- **À qui sont destiné ces 20 blocs :** blocs hommes et femmes
-- **Ces 20 blocs sont commun(e)s à quelles catégories :** Toutes catégories
-- **Diviser cette étape en vagues :** oui
-- choisissez les heures de passage pour chacune de vos vagues.
+- **Nombre de blocs à faire** : exemple 20
+- **À qui sont destinés ces blocs** : hommes et femmes
+- **Ces blocs sont communs à quelles catégories** : Toutes catégories
+- **Diviser cette étape en vagues** : oui
+- choisissez les heures de passage pour chaque vague.
 
-Une fois paramétré, la page de votre contest devrait ressembler à ça :
+Votre page devrait ressembler à ceci :
 
-[![Nom, prénom, date de naissance](../../../assets/images/contest-vague-overview.jpg)](../../../assets/images/contest-vague-overview.jpg)
+{: .images }
+[![Vue d'ensemble du contest par vagues](../../../assets/images/contest-vague-overview.jpg)](../../../assets/images/contest-vague-overview.jpg)
 
-## 6. Comment vos participants choisissent leurs vagues ?
+## 7. Comment les participants choisissent leurs vagues ?
 
-À l'inscription, les participants passent par 4 étapes
+À l'inscription, les participants passent par 3 étapes principales :
 
-**Étape 1 : Nom, prénom, date de naissance**
-
-Première étape, on demande au futur participant de renseigner son : nom, prénom, date de naissance et finalement son genre.
+### Étape 1 : Nom, prénom, date de naissance
 
 {: .images }
 [![Nom, prénom, date de naissance](../../../assets/images/conetst-equipe-inscripton-etape-1.png)](../../../assets/images/conetst-equipe-inscripton-etape-1.png)
 
-**Étape 2 : Choix de la catégorie**
-
-Deuxième étape, choix de la catégorie, et choix de la vague !
+### Étape 2 : Choix de la catégorie et de la vague
 
 {: .images }
 [![Choix de la vague](../../../assets/images/contest-vague-choix-de-la-vague.png)](../../../assets/images/contest-vague-choix-de-la-vague.png)
 
-**Étape 3 : Valider l'inscription**
+### Étape 3 : Validation de l'inscription
 
-Enfin, le participant valide l'inscription en renseignant son email.
+Le participant valide son inscription en renseignant son email.
 
 {: .images }
 [![Validation](../../../assets/images/contest-equipe-inscripton-etape-5.png)](../../../assets/images/contest-equipe-inscripton-etape-5.png)
 
-## 7. Conclusion
+## 8. Conclusion
 
-Vous venez de voir comment créer un contest de bloc, avec vos participants réparti sur deux vagues.
+Vous avez appris à créer un contest de bloc avec vos participants répartis sur plusieurs vagues.
 
 {: .text-right }
 [Tuto - Les championnats](tuto-les-championnats){: .btn }
-
-

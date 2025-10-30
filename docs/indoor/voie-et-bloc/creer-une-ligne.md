@@ -26,9 +26,9 @@ Voici à quoi ressemble le formulaire d'ajout d'une voie :
 [![Ajouter une voie](../../../assets/images/creer-une-ligne-indoor_desktop.png)](../../../assets/images/creer-une-ligne-indoor_desktop.png)
 
 {: .alert .info }
-Suivant votre paramétrage de votre système de difficulté les champs peuvent être différent
+Suivant votre paramétrage de votre système de difficulté les champs peuvent être différent.
 
-Sur ce formulaire vous trouverez les champs suivants :
+Sur ce formulaire, vous trouverez les champs suivants :
 
 **Niveau :**  
 Si vous avez prédéfini des niveaux dans votre système de difficulté, vos différents niveaux s'afficheront ici.  

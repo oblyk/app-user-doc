@@ -7,4 +7,4 @@ nav_order: 3
 
 # Gérer mon compte
 
-Trouver toutes les informations nécessaires à la bonne gestion de votre compte Oblyk.
+Trouvez toutes les informations nécessaires à la bonne gestion de votre compte Oblyk.

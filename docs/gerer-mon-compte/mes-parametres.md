@@ -9,7 +9,7 @@ nav_order: 1
 
 ## Sur mobile
 
-Cliquez sur l'icône de profil en bas à droit de l'écran puis cliquez sur "Paramètres"
+Cliquez sur l'icône de profil en bas à droite de l'écran puis cliquez sur "Paramètres"
 
 {: .images .side-by-side}
 [![icône de profil](../../assets/images/icone-profil_mobile.png)](../../assets/images/icone-profil_mobile.png)

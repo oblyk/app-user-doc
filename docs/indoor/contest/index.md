@@ -8,7 +8,7 @@ has_children: true
 
 # Les contests
 
-Vous pouvez faire beaucoup de variété de contest sur Oblyk, contest simple, avec des étapes (qualif, demie, finale), des combinées, en équipe, des championnats, divisé en vagues, etc.
+Vous pouvez faire beaucoup de variété de contest sur Oblyk, contest simple, avec des étapes (qualif, demie, finale), des épreuves combinées, en équipe, des championnats, divisés en vagues, etc.
 
 Toutes les options sont combinables, ce qui vous permet une grande liberté dans la création de votre contest !
 La contrepartie, c'est que vous avez beaucoup d'options 😅
@@ -26,7 +26,7 @@ Dans cette partie de la documentation, nous allons déjà voir comment créer qu
 
 ## Les contests point par point
 
-Les tutos vous donnent des exemples de contest courant, mais vous pouvez mixer les options pour créer des contest originaux !  
+Les tutos vous donnent des exemples de contests courants, mais vous pouvez mixer les options pour créer des contests originaux !  
 Nous allons nous pencher sur quelques notions avancées.
 
 - [Términologie](terminologie)
