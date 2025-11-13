@@ -10,7 +10,4 @@ Oblyk est un site communautaire dédié à l'escalade outdoor et indoor, il poss
 
 On trouve aussi un outil de recherche de partenaire d'escalade et un éditeur de topo indoor à destination des clubs et des salles d'escalades privées.
 
-{: .alert .warning }
-Note : La documentation d'Oblyk est en cours de rédaction.
-
 [chercher des falaises]: docs/sites-naturels/trouver-un-site
